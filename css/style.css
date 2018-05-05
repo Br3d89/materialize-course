@@ -1,0 +1,31 @@
+nav {
+  background:#803c42;
+}
+
+.carousel .indicators .indicator-item  {
+  width:10px;
+  height:10px;
+}
+
+.carousel .carousel-slider {
+  height:600px !important;
+}
+
+.parallax-container {
+  height:300px;
+}
+
+body {
+  display:flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+.raw {
+  margin-top: 40px;
+  margin-bottom:400px;
+}
